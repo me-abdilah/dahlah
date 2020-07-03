@@ -1,0 +1,36 @@
+body{
+margin:0px;
+padding:0px;
+}
+.header{
+width:1440px;
+height:110px;
+background-color:#e2a355;
+}
+.header-left {
+float:left;
+letter-spacing: 5px;
+}
+.header-left h1{
+background-color: white;
+color: #e2a355;
+font-size: 39px;
+display: inline-block;
+float: left;
+padding:10px 15px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+border-radius: 15px;
+margin :25px 25px;
+}
+.header-right {
+float:right;
+color:#ffffff;
+}
+li {
+list-style: none;
+float:left;
+font-size:25.66px;
+padding:22px 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+letter-spacing:5px;
+}
